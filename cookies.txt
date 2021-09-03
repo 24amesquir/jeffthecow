@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jeffthecow.com	TRUE	/	FALSE	1999999999	PHPSESSID	d16bc3551001f2cbf08c253f9761408d
+jeffthecow.com	TRUE	/	FALSE	1999999999	SameSite	None
+
